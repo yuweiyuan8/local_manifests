@@ -5,6 +5,6 @@
 <project path="kernel/xiaomi/msm8956" name="sailfishos-kenzo/escrima_kernel_xiaomi_msm8956" revision="hybris-14.1" />
 <project path="vendor/xiaomi" name="sailfishos-kenzo/proprietary_vendor_xiaomi" revision="nougat" clone-depth="1" />
 <project path="hybris/droid-hal-version-kenzo" name="sailfishos-kenzo/droid-hal-version-kenzo" revision="master" />
-<project path="hybris/droid-config-kenzo" name="sailfishos-kenzo/droid-config-kenzo" revision="master" />
+<project path="hybris/droid-configs" name="sailfishos-kenzo/droid-config-kenzo" revision="master" />
 <project path="rpm" name="sailfishos-kenzo/droid-hal-kenzo" revision="master" />
 </manifest>
