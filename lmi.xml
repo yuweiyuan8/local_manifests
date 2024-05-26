@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="dirty" fetch="https://github.com/LineageOS" revision="refs/heads/lineage-18.1" />
+<project path="device/xiaomi/lmi" name="android_device_xiaomi_lmi" remote="los" />
+<project path="device/xiaomi/sm8250-common" name="android_device_xiaomi_sm8250-common" remote="los" />
+<project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="los" />
+<project path="vendor/xiaomi" name="proprietary_vendor_asus" remote="them2" />
+</manifest>
