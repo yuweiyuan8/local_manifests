@@ -5,5 +5,5 @@
 <project path="device/xiaomi/lmi" name="android_device_xiaomi_lmi" remote="dirty" />
 <project path="device/xiaomi/sm8250-common" name="android_device_xiaomi_sm8250-common" remote="dirty" />
 <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="dirty" />
-<project path="vendor/xiaomi" name="proprietary_vendor_asus" remote="them2" />
+<project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="them2" />
 </manifest>
