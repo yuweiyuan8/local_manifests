@@ -7,4 +7,5 @@
 <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="dirty" />
 <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="them2" />
 <project path="hardware/xiaomi" name="android_hardware_xiaomi" revision="refs/heads/lineage-18.1" remote="dirty"/>
+<project name="Halium/halium-boot" path="halium/halium-boot" remote="github" revision="master" />
 </manifest>
